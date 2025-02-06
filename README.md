@@ -1,5 +1,5 @@
 # GPAX
- ```C#
+
 ```mermaid
 classDiagram
     class GPACalculator {
