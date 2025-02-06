@@ -26,3 +26,4 @@ classDiagram
     Form1 --> GPACalculator : ใช้สำหรับคำนวณ GPA
     Form1 --> ListBox : แสดงรายการ GPA
     Form1 --> TextBox : สำหรับกรอกและแสดงค่า GPA
+```
